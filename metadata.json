@@ -1,0 +1,8 @@
+{
+  "name": "KinoLite",
+  "description": "Minimal low-data, high-quality streaming app for movies, web series, and anime with offline downloads, add-ons, custom skins, uploads, linked sites, and social activity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
